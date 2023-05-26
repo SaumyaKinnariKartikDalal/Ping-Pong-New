@@ -187,7 +187,7 @@ function move() {
     stroke("white");
     textSize(25);
     text("Game Over!", width / 2, height / 2);
-    text("Reload the page!", width / 2, height / 2 + 30)
+    text("Click on Restart!", width / 2, height / 2 + 30)
     noLoop();
     pcscore = 0;
   }
